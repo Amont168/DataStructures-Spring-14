@@ -1,0 +1,10 @@
+Anna Arcello,12,3.75
+Betty Boop,9,2.50
+Cindy Crawford,3,2.75
+Debbie Doodad,6,2.25
+Eva Everloud,15,3.15
+Fran Fandango,12,3.75
+Gina Giggler,3,2.50
+Heidi Hiccup,15,4.00
+Ida Idono,9,3.50
+Jeannie Jump,15,4.00
